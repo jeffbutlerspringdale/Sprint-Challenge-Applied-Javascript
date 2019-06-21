@@ -36,7 +36,7 @@ Document Object Model, hierarchy structure of the formatted web page AFTER it hi
 
 2. What is an event?
 
-	Something that happens based on a trigger that you have asgined. IE, on click > move this box 100px to the right.
+	Something that happens based on a trigger that the user does. IE, on click > move this box 100px to the right.
 
 3. What is an event listener?
 
@@ -48,7 +48,7 @@ So that you could access and manipulate it like an actual array. Nodelist is onl
 
 5. What is a component?
 
-It's a piece of code that allows you to implement functionality and make things “smart” on a webpage. These are also re-usable. 
+It's a piece of code that allows you to implement functionality and make things “smart” (if you program it) on a webpage. These are also re-usable. 
 
 ### Git Set up
 
